@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio 
+/.vs
+/.vscode
+/.cache
+*.aps
+
+
+# CMake and Build 
+/build
+/out
+/CMakePresets.json
+/CMakeUserPresets.json
